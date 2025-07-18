@@ -12,6 +12,7 @@ AD Users and Computers (simulated password resets)
 
 
 Screenshots:
-![image](https://github.com/user-attachments/assets/0d85cf2c-0d0a-456e-b04b-291d0a1361ca)
-![image](https://github.com/user-attachments/assets/2890601a-32c6-44ac-8490-b7c58456f2fa)
+<img width="1879" height="883" alt="image" src="https://github.com/user-attachments/assets/64456746-b488-4486-b3de-11f887538a20" />
+<img width="1277" height="587" alt="image" src="https://github.com/user-attachments/assets/eca62155-d98a-4b30-9fb4-1b763cace7e0" />
+<img width="1253" height="579" alt="image" src="https://github.com/user-attachments/assets/e1b29c0b-5eaa-4b5f-8397-08443c7793a4" />
 
