@@ -10,7 +10,6 @@ GitHub (for documentation)
 
 AD Users and Computers (simulated password resets)
 
-
 Screenshots:
 <img width="1879" height="883" alt="image" src="https://github.com/user-attachments/assets/64456746-b488-4486-b3de-11f887538a20" />
 <img width="1277" height="587" alt="image" src="https://github.com/user-attachments/assets/eca62155-d98a-4b30-9fb4-1b763cace7e0" />
